@@ -6,6 +6,9 @@ Professor: Federico Di Pasqua
 Time: Mond-Wed 10-11.15
 3109 Boylan Hall Brooklyn College
 
+### Goals
+Learning reading public speaking
+
 ### Policy on Attendance:
 Attendance is required. You are expected to be in the classroom on time for every meeting. If
 you miss more than 4 classes your grade will drop one full letter grade for each additional
